@@ -1,8 +1,8 @@
-Advanced Machine Learning Project: Flight Price Prediction
+**Advanced Machine Learning Project: Flight Price Prediction**
 
-Problem Statement
+***Problem Statement***  
 The goal of this project is to build a predictive model to estimate flight ticket prices based on various features such as the airline, source, destination, class, and journey details. We aim to leverage different machine learning algorithms to analyze the data and derive insights for airline pricing strategies.
-Key Tasks
+***Key Tasks***
 1.	Feature Engineering
 -	Explore the dataset and clean it by checking for missing values, duplicates, and statistical information.
 -	Extract key features such as Date, Month, and Year from the Date of Journey column.
@@ -23,8 +23,8 @@ Key Tasks
 7.	Conclusion
 -	Provide insights from the business perspective and ensure all preprocessing steps are applied to the test data.
 
-Technologies Used:
-Language: Python
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+***Technologies Used:***  
+Language: Python  
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 Algorithms: Linear Regression, Decision Tree, Random Forest
 
