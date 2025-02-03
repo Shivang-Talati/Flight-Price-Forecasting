@@ -23,3 +23,8 @@ Key Tasks
 7.	Conclusion
 -	Provide insights from the business perspective and ensure all preprocessing steps are applied to the test data.
 
+Technologies Used:
+Language: Python
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Algorithms: Linear Regression, Decision Tree, Random Forest
+
